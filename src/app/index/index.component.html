@@ -1,0 +1,119 @@
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <!-- Bootstrap CSS -->
+   <!--  <link rel="stylesheet" href="./css/bootstrap.css" />
+    <link rel="stylesheet" href="./css/custom.css" /> -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+      integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+      crossorigin="anonymous"
+    />
+
+
+    <title>CredHomes</title>
+  </head>
+  <body>
+    <nav class="navbar Path-1074">
+      <a class="navbar-brand" href="home.html">
+        <img
+          src="./img/logo.svg"
+          class="logo-big"
+          width="250"
+          height="50"
+          alt=""
+        />
+      </a>
+    </nav>
+    <div class="container" id="content">
+      <div class="row">
+        <div class="col-sm-2">
+          <img class="BACK-BUTTON" src="./assets/img/btnBack.svg" />
+        </div>
+        <div class="col-sm-8">
+          <p class="headline">Type of home you are looking for?</p>
+        </div>
+        <div class="col-sm-2"></div>
+      </div>
+
+      <p class="subhead">(Select one or more)</p>
+      <br />
+      <div class="row justify-content-center">
+
+        <div class="col-sm-2 Rectangle-12">
+          <img src="./assets/img/apartment.svg" class="Group-282" /><br />
+          <span class="Bed">Apartment</span>
+        </div>
+        <div class="col-sm-2 Rectangle-12">
+          <img src="./assets/img/duplex.svg" class="Group-282" /><br />
+          <span class="Bed">House/Villa</span>
+        </div>
+        <div class="col-sm-2 Rectangle-12">
+          <img src="./assets/img/villa.svg" class="Group-282" /><br />
+          <span class="Bed">Builder Floor</span>
+        </div>
+      </div>
+
+      <div class="middle">
+        <button
+          type="button"
+          class="btn Rectangle-3"
+          onclick="window.location.href='familyDetails.html'"
+        >
+          <span class="Next">Next</span>
+        </button>
+      </div>
+    </div>
+    <div class="container-fluid" style="margin-top:50px;">
+      <span class="col-1 footer" style="background-color:blue; margin:0px; z-index: 1;">&nbsp;</span>
+      <span class="col-12 footer" style="text-align:right;  margin:0px; padding-right: 5px;">1/11 &nbsp;&nbsp;</span>
+    </div>
+  <!--
+    <div class="footer">
+      <div
+        class="progress-bar progress-bar-striped progress-bar-animated"
+        role="progressbar"
+        aria-valuenow="10"
+        aria-valuemin="0"
+        aria-valuemax="100"
+        style="width: 10%"
+      >
+        1/11
+      </div>
+    </div>
+  -->
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+
+    <script
+      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+        $(document).ready(function() {
+        $(".Rectangle-12").click(function () {
+          $(this).toggleClass("bordertoggle");
+        });
+        });
+
+      </script>
+  </body>
+</html>

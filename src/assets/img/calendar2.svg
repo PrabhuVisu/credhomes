@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="123" height="116.216" viewBox="0 0 123 116.216">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #3c81e9;
+      }
+
+      .cls-2 {
+        font-size: 44px;
+        font-family: CircularStd-Medium, Circular Std;
+        font-weight: 500;
+        letter-spacing: -0.024em;
+      }
+    </style>
+  </defs>
+  <g id="calendar" transform="translate(0 -10.656)">
+    <g id="Group_224" data-name="Group 224" transform="translate(0 10.48)">
+      <g id="Group_223" data-name="Group 223" transform="translate(0 0.176)">
+        <path id="Path_1166" data-name="Path 1166" class="cls-1" d="M117.459,21.356H98.711V13.069a2.589,2.589,0,0,0-5.179,0v8.26H64.089v-8.26a2.589,2.589,0,1,0-5.179,0v8.26H29.468v-8.26a2.589,2.589,0,1,0-5.179,0v8.26H5.541A5.542,5.542,0,0,0,0,26.871v94.283A5.542,5.542,0,0,0,5.541,126.7H117.459A5.542,5.542,0,0,0,123,121.154V26.9A5.542,5.542,0,0,0,117.459,21.356Zm.363,99.8a.362.362,0,0,1-.363.363H5.541a.362.362,0,0,1-.363-.363V57.841H117.821Zm0-68.492H5.179V26.9a.362.362,0,0,1,.363-.363H24.315v8.39a2.589,2.589,0,0,0,5.179,0V26.638H58.911v8.286a2.589,2.589,0,0,0,5.179,0V26.638H93.532v8.286a2.589,2.589,0,1,0,5.179,0V26.638h18.774a.362.362,0,0,1,.363.363Z" transform="translate(0 -10.48)"/>
+      </g>
+      <text id="_15" data-name="15" class="cls-2" transform="translate(42 93.176)"><tspan x="0" y="0">15</tspan></text>
+    </g>
+  </g>
+</svg>

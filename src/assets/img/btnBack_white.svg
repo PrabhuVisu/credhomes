@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.061" height="20.912" viewBox="0 0 22.061 20.912">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:rgba(255,255,255,.9);stroke-width:2px}
+        </style>
+    </defs>
+    <g id="BACK_BUTTON" data-name="BACK BUTTON" transform="translate(-16.539 246.94)">
+        <path id="Line_3" d="M9.886 0L0 10.71" class="cls-1" data-name="Line 3" transform="translate(17.38 -246.262)"/>
+        <path id="Line_4" d="M9.886 0L0 10.71" class="cls-1" data-name="Line 4" transform="rotate(90 132.288 -104.36)"/>
+        <path id="Line_5" d="M19.439 0H0" class="cls-1" data-name="Line 5" transform="translate(19.16 -236.715)"/>
+    </g>
+</svg>

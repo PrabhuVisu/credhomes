@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.688" height="100.688" viewBox="0 0 100.688 100.688">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3c81e9;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="_029-parking" data-name="029-parking" transform="translate(1 1)">
+    <g id="Group_210" data-name="Group 210" transform="translate(0 0)">
+      <g id="Group_209" data-name="Group 209">
+        <path id="Path_1130" data-name="Path 1130" class="cls-1" d="M87.123,0H11.565A11.578,11.578,0,0,0,0,11.565V87.123A11.578,11.578,0,0,0,11.565,98.688H87.123A11.578,11.578,0,0,0,98.688,87.123V11.565A11.578,11.578,0,0,0,87.123,0Zm3.855,87.123a3.859,3.859,0,0,1-3.855,3.855H11.565A3.859,3.859,0,0,1,7.71,87.123V11.565A3.859,3.859,0,0,1,11.565,7.71H87.123a3.859,3.859,0,0,1,3.855,3.855Z" transform="translate(0 0)"/>
+        <path id="Path_1131" data-name="Path 1131" class="cls-1" d="M172.985,100H146v60.138h7.71V138.55h19.275a19.275,19.275,0,0,0,0-38.55Zm0,30.84H153.71V107.71h19.275a11.565,11.565,0,0,1,0,23.13Z" transform="translate(-117.859 -80.725)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.764" height="30" viewBox="0 0 31.764 30">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <g id="if_chart-area_216132" class="cls-1" transform="translate(0 -0.999)">
+    <path id="Shape" d="M28.234,3.53a3.529,3.529,0,0,0-6.286-2.206L17.027,7.476l-4.322-3.24a3.53,3.53,0,0,0-4.874.619L.773,13.679A3.526,3.526,0,0,0,0,15.883v5.294H28.234Z" transform="translate(1.765 0.999)"/>
+    <path id="Shape-2" data-name="Shape" d="M30,0H1.765a1.765,1.765,0,0,0,0,3.529H30A1.765,1.765,0,0,0,30,0Z" transform="translate(0 27.47)"/>
+  </g>
+</svg>

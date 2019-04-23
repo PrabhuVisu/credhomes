@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.589" height="36.384" viewBox="0 0 38.589 36.384">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: rgba(0,0,0,0.9);
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="BACK_BUTTON" data-name="BACK BUTTON" transform="translate(-16.201 247.279)">
+    <line id="Line_3" data-name="Line 3" class="cls-1" x1="17.372" y2="18.82" transform="translate(17.502 -246.262)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-1" x1="17.372" y2="18.82" transform="translate(36.038 -229.369) rotate(90)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-1" x1="34.159" transform="translate(20.631 -229.487)"/>
+  </g>
+</svg>

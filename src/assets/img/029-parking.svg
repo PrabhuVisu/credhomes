@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.234" height="56.234" viewBox="0 0 56.234 56.234">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b1b1b1;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="_029-parking" data-name="029-parking" transform="translate(1 1)">
+    <g id="Group_210" data-name="Group 210" transform="translate(0 0)">
+      <g id="Group_209" data-name="Group 209">
+        <path id="Path_1130" data-name="Path 1130" class="cls-1" d="M47.879,0H6.356A6.363,6.363,0,0,0,0,6.356V47.879a6.363,6.363,0,0,0,6.356,6.356H47.879a6.363,6.363,0,0,0,6.356-6.356V6.356A6.363,6.363,0,0,0,47.879,0ZM50,47.879A2.121,2.121,0,0,1,47.879,50H6.356a2.121,2.121,0,0,1-2.119-2.119V6.356A2.121,2.121,0,0,1,6.356,4.237H47.879A2.121,2.121,0,0,1,50,6.356Z" transform="translate(0 0)"/>
+        <path id="Path_1131" data-name="Path 1131" class="cls-1" d="M160.83,100H146v33.049h4.237V121.185H160.83a10.593,10.593,0,0,0,0-21.185Zm0,16.948H150.237V104.237H160.83a6.356,6.356,0,0,1,0,12.711Z" transform="translate(-130.535 -89.407)"/>
+      </g>
+    </g>
+  </g>
+</svg>
